@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"us",
+				"users"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"get",
+				"getMensagens"
+			],
+			[
+				"ge",
+				"getUsuarios"
+			],
+			[
+				"da",
+				"Date"
+			],
+			[
+				"getmen",
+				"getMensagensPrivadas"
+			],
+			[
+				"getM",
+				"getMensagensGrupo"
+			],
+			[
+				"M",
+				"Mensagem"
+			],
+			[
+				"set",
+				"setMensagensGrupo"
+			],
+			[
+				"men",
+				"mensagensGrupo"
+			],
+			[
+				"setMen",
+				"setMensagensPrivadas"
+			],
+			[
+				"imprmi",
+				"imprimirUsers"
+			],
+			[
+				"ex",
+				"Exception"
+			],
+			[
+				"Da",
+				"DadoInvalidoException"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"nome",
+				"nome"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Data",
+				"dataDeLancamento"
+			],
+			[
+				"daDe",
+				"dataDeLancamento"
+			],
+			[
+				"A",
+				"Autor"
+			],
+			[
+				"vol",
+				"volume"
+			],
+			[
+				"delete",
+				"delete_product"
+			],
+			[
+				"dele",
+				"delete_product"
+			],
+			[
+				"up",
+				"update_product"
+			],
+			[
+				"ur",
+				"urls"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wolaci/Crud_laravel/app/Http/Controllers/PostsController.php",
+		"/home/wolaci/appProducts/app/Http/Controllers/ProdutoController.php",
+		"/home/wolaci/Stoodi/Laravel/app/produto.php",
+		"/home/wolaci/Stoodi/Laravel/app/Http/Controllers/ProdutoController.php",
+		"/home/wolaci/Stoodi/Laravel/database/migrations/2019_10_20_171019_create_produto_table.php",
+		"/home/wolaci/Stoodi/php/index.php",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/index.php",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/add.php",
+		"/home/wolaci/Stoodi/php/add.php",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/conn.php",
+		"/home/wolaci/Stoodi/php/conn.php",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/configs/bd.sql",
+		"/home/wolaci/Stoodi/php/bd.sql",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/add",
+		"/home/wolaci/entrevista/index.php",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/delete.php",
+		"/home/wolaci/entrevista/editado.php",
+		"/home/wolaci/entrevista/editing.php",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/edit.php",
+		"/home/wolaci/entrevista/apagar.php",
+		"/home/wolaci/entrevista/add.php",
+		"/home/wolaci/entrevista/dados.php",
+		"/home/wolaci/entrevista/conn.php",
+		"/home/wolaci/entrevista/bd.sql",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/dados.php",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/editar.php",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/jquery-3.4.1.min.js",
+		"/home/wolaci/Área de Trabalho/Crud_PDO/app/MascaraValidacao.js",
+		"/home/wolaci/HqShopp/Makefile",
+		"/home/wolaci/HqShopp/Index.php",
+		"/home/wolaci/Área de Trabalho/appProducts/database/seeds/UsersTableSeeder.php",
+		"/home/wolaci/Área de Trabalho/appProducts/database/seeds/DatabaseSeeder.php",
+		"/home/wolaci/appProducts/app/Produto.php",
+		"/home/wolaci/appProducts/app/Providers/AppServiceProvider.php",
+		"/home/wolaci/appProducts/database/migrations/2019_09_18_173806_create_produtos_table.php",
+		"/home/wolaci/appProducts/resources/views/welcome.blade.php",
+		"/home/wolaci/appProducts/resources/views/layouts/app.blade.php",
+		"/home/wolaci/appProducts/routes/web.php",
+		"/home/wolaci/appProducts/.env",
+		"/home/wolaci/Crud_laravel/database/migrations/2019_09_12_134556_create_table_post.php",
+		"/home/wolaci/Crud_laravel/Makefile",
+		"/home/wolaci/Crud_laravel/database/seeds/DatabaseSeeder.php",
+		"/home/wolaci/Crud_laravel/database/seeds/UsersTableSeeder.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/routes/web.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/app/Http/Controllers/Auth/LoginController.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/database/seeds/UsersTableSeeder.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/database/seeds/DatabaseSeeder.php",
+		"/home/wolaci/Crud_laravel/.env",
+		"/home/wolaci/CrudCakePhp/src/Controller/ArticlesController.php",
+		"/home/wolaci/CrudCakePhp/src/Template/Articles/add.ctp",
+		"/home/wolaci/CrudCakePhp/src/Template/Articles/edit.ctp",
+		"/home/wolaci/CrudCakePhp/src/Template/Articles/view.ctp",
+		"/home/wolaci/CrudCakePhp/src/Template/Articles/Index.ctp",
+		"/home/wolaci/CrudCakePhp/src/Model/Table/ArticlesTable.php",
+		"/home/wolaci/CrudCakePhp/src/View/index.ctp",
+		"/home/wolaci/CrudCakePhp/src/Controller/UsuariosController.php",
+		"/home/wolaci/CrudCakePhp/config/app.php",
+		"/home/wolaci/CrudCakePhp/src/Model/Usuario.php",
+		"/home/wolaci/CrudCakePhp/src/View/adicionar.ctp",
+		"/home/wolaci/CrudCakePhp/src/View/edição.ctp",
+		"/home/wolaci/CrudCakePhp/src/Template/add.ctp",
+		"/home/wolaci/Área de Trabalho/Crud_laravel/resources/views/posts/show.blade.php",
+		"/home/wolaci/Área de Trabalho/Crud_laravel/routes/web.php",
+		"/home/wolaci/Área de Trabalho/Crud_laravel/app/Http/Controllers/PostsController.php",
+		"/home/wolaci/Área de Trabalho/Crud_laravel/resources/views/posts/create.blade.php",
+		"/home/wolaci/Área de Trabalho/Crud_laravel/resources/views/posts/index.blade.php",
+		"/home/wolaci/Documentos/CrudResource/.env",
+		"/home/wolaci/Área de Trabalho/Crud_laravel/resources/views/posts/form_master.blade.php",
+		"/home/wolaci/Área de Trabalho/Crud_laravel/database/migrations/2019_09_12_174008_create_table_post.php",
+		"/home/wolaci/Área de Trabalho/Crud_laravel/app/Posts.php",
+		"/home/wolaci/Área de Trabalho/Crud_laravel/resources/views/posts/edit.blade.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/resources/views/posts/show.blade.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/app/Http/Controllers/PostsController.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/resources/views/posts/edit.blade.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/config/app.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/resources/views/posts/create.blade.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/resources/views/posts/form_master.blade.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/resources/views/posts/index.blade.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/app/Posts.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/app/Http/Controllers/PostController.php",
+		"/home/wolaci/Área de Trabalho/CrudResource/database/migrations/2019_09_12_134556_create_table_post.php",
+		"/home/wolaci/laravel_crud/.env",
+		"/home/wolaci/Área de Trabalho/crud/.env",
+		"/home/wolaci/CrudResource/.env",
+		"/home/wolaci/php.php",
+		"/home/wolaci/CrudResource/app/Posts.php",
+		"/home/wolaci/CrudResource/database/migrations/2019_09_12_125230_create_table_post.php",
+		"/home/wolaci/laravel_crud/app/Posts.php",
+		"/home/wolaci/laravel_crud/database/migrations/2019_09_11_183633_create_table_post.php",
+		"/home/wolaci/laravel_crud/Makefile",
+		"/home/wolaci/laravel_crud/app/Http/Controllers/StudentController.php",
+		"/home/wolaci/laravel_crud/routes/web.php",
+		"/home/wolaci/laravel_crud/config/database.php",
+		"/home/wolaci/laravel_crud/readme.md",
+		"/home/wolaci/Readmemodel.md",
+		"/home/wolaci/Stoodi/EnviarMensagem.java",
+		"/home/wolaci/Stoodi/TipoMensagem.java",
+		"/home/wolaci/Stoodi/Mensagem.java",
+		"/home/wolaci/Stoodi/Usuario.java",
+		"/home/wolaci/Users.java",
+		"/home/wolaci/Mensagem.java",
+		"/home/wolaci/comandRails.txt",
+		"/home/wolaci/Chat.java",
+		"/home/wolaci/TestArray.java",
+		"/home/wolaci/Crud_rails/Makefile",
+		"/home/wolaci/dog-app/config/routes.rb",
+		"/home/wolaci/Stoodi/DocsPesquisa.java",
+		"/home/wolaci/Stoodi/TestPesquisa.java",
+		"/home/wolaci/Stoodi/TipoPesquisa.java",
+		"/home/wolaci/Stoodi/Pesquisa.java",
+		"/home/wolaci/teste/DadoInvalidoException.java",
+		"/home/wolaci/teste/Pessoa.java",
+		"/home/wolaci/Pessoa.java",
+		"/home/wolaci/Stoodi/DadoInvalidoException.java",
+		"/home/wolaci/teste/DadoInvalidoException",
+		"/home/wolaci/Usuario.java",
+		"/home/wolaci/Box.java",
+		"/home/wolaci/ImprimirArray.java",
+		"/home/wolaci/Im",
+		"/home/wolaci/Stoodi/Makefile",
+		"/home/wolaci/redesocial/DadoInvalidoException.java",
+		"/home/wolaci/redesocial/TesteMensagem.java",
+		"/home/wolaci/redesocial/EnviarMensagem.java",
+		"/home/wolaci/redesocial/Mensagem.java",
+		"/home/wolaci/Stoodi/configs/Makefile",
+		"/home/wolaci/redesocial/Usuario.java",
+		"/home/wolaci/Área de Trabalho/Perguntas.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "UserFactory.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
