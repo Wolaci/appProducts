@@ -21,7 +21,7 @@ class ProdutoController extends Controller
     public function salvarProduto(Request $request)
     {
         $request->validate([
-            'name'=>'required|string',
+            'name'=>'required|string|size:25',
             'descricao'=>'required|string|max:45',
             'data'=>'required',
             'preco'=>'required|alpha_num|min:1',
