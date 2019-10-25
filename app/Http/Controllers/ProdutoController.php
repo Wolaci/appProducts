@@ -23,9 +23,9 @@ class ProdutoController extends Controller
         $request->validate([
             'name'=>'required|string|size:25',
             'descricao'=>'required|string|max:45',
-            'data'=>'required',
+            'data'=>'required|after:"2018-04-09"',
             'preco'=>'required|alpha_num|min:1',
-            'lote'=>'required|numeric|integer|max:3',
+            'lote'=>'required|numeric|integer|alpha_dash',
             'avaliacao'=>'required|numeric|between:0,5'
         ]);
         \App\Produto::create($request->all());
